@@ -20,7 +20,7 @@ int main(void)
 	x = aleatorio();
 	std::cout << "Aleatorio = " << x;
 	
-	std::cout << "Soma = " << soma(x,2);
+	std::cout << "\n\nSoma = " << soma(x,2);
 	
 	return 0;
 }	
